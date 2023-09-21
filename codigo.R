@@ -3,4 +3,4 @@ mean(x1)
 sd(x1)
 var(x1)
 sd(x1)^2
-# ...
+# Añadir más medidas descriptivas
